@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -22,3 +23,37 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+=======
+# NetBeans
+nbproject/
+build/
+dist/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Java
+# NetBeans
+nbproject/
+build/
+dist/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Java
+*.class
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.class
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+>>>>>>> 485e0c6 (✨ Initial commit: Project structure and .gitignore)
